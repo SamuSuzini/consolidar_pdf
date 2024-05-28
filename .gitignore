@@ -1,0 +1,8 @@
+venv/ 
+esboco.ipynb
+extrair_pdf.ipynb
+log_erros.txt
+requirements.txt
+automacao_pdf.py
+extract.ipynb
+parser_pdf.py
